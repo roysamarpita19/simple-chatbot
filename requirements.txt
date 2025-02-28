@@ -1,0 +1,2 @@
+# requirements.txt
+# No external dependencies yet, but if you add any, list them here
